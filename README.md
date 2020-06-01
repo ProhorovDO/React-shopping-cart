@@ -10,4 +10,4 @@
 <li>Redux Thunk</li>
 <li>Bootstrap</li>
 </ul>
-<img src ='https://github.com/ProhorovDO/React-shopping-cart/blob/master/assets/React-shopping-cart.gif' alt='app' width="100%" height="100%"/>
+<img src ='https://github.com/ProhorovDO/React-shopping-cart/blob/master/src/assets/React-shopping-cart.gif' alt='app' width="100%" height="100%"/>
