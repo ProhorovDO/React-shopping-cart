@@ -8,8 +8,7 @@ let initialState = {
       "author": "Дэн Браун",
       "image": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/27624091-den-braun-proishozhdenie-27624091.jpg",
       "price": 710,
-      "quantity": 1,
-      "rating": 3
+      "quantity": 1
     },
     {
       "id": 1,
@@ -17,8 +16,7 @@ let initialState = {
       "author": "Джордж Оруэлл",
       "image": "https://cv0.litres.ru/sbc/09233908_cover_185-elektronnaya-kniga--.jpg",
       "price": 415,
-      "quantity": 1,
-      "rating": 5
+      "quantity": 1
     },
     {
       "id": 2,
@@ -26,8 +24,7 @@ let initialState = {
       "author": "Донато Карризи",
       "image": "https://cv2.litres.ru/sbc/31635724_cover_185-elektronnaya-kniga-donato-karrizi-devushka-v-tumane.jpg",
       "price": 464,
-      "quantity": 1,
-      "rating": 4
+      "quantity": 1
     },
     {
       "id": 3,
@@ -35,8 +32,7 @@ let initialState = {
       "author": "Михаил Зыгарь",
       "image": "https://cv0.litres.ru/sbc/30804904_cover_185-elektronnaya-kniga-mihail-zygar-imperiya-dolzhna-umeret.jpg",
       "price": 741,
-      "quantity": 1,
-      "rating": 3
+      "quantity": 1
     },
     {
       "id": 4,
@@ -44,8 +40,7 @@ let initialState = {
       "author": "Татьяна Устинова",
       "image": "https://cv9.litres.ru/sbc/30087292_cover_185-elektronnaya-kniga-tatyana-ustinova-zemnoe-prityazhenie.jpg",
       "price": 317,
-      "quantity": 1,
-      "rating": 1
+      "quantity": 1
     },
     {
       "id": 5,
@@ -53,8 +48,7 @@ let initialState = {
       "author": "Гузель Яхина",
       "image": "https://cv5.litres.ru/sbc/17411250_cover_185-elektronnaya-kniga-guzel-yahina-zuleyha-otkryvaet-glaza-2.jpg",
       "price": 254,
-      "quantity": 1,
-      "rating": 0
+      "quantity": 1
     },
     {
       "id": 6,
@@ -62,8 +56,7 @@ let initialState = {
       "author": "Джулия Эндерс",
       "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_120/12178377-dzhuliya-enders-ocharovatelnyy-kishechnik-kak-samyy-moguschestvennyy-organ-upravlyaet-nami-12178377.jpg",
       "price": 573,
-      "quantity": 1,
-      "rating": 4
+      "quantity": 1
     },
     {
       "id": 7,
@@ -71,8 +64,7 @@ let initialState = {
       "author": "Стивен Кови",
       "image": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/4239285--.jpg",
       "price": 347,
-      "quantity": 1,
-      "rating": 5
+      "quantity": 1
     },
     {
       "id": 8,
@@ -80,8 +72,7 @@ let initialState = {
       "author": "Роберт Брындза",
       "image": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/27351732-robert-bryndza-12646976-devushka-vo-ldu.jpg",
       "price": 882,
-      "quantity": 1,
-      "rating": 2
+      "quantity": 1
     },
     {
       "id": 9,
@@ -89,8 +80,7 @@ let initialState = {
       "author": "Хэл Элрод",
       "image": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/19063017-hel-elrod-magiya-utra.jpg",
       "price": 829,
-      "quantity": 1,
-      "rating": 1
+      "quantity": 1
     },
     {
       "id": 10,
@@ -98,8 +88,7 @@ let initialState = {
       "author": "Борис Акунин",
       "image": "https://cv3.litres.ru/sbc/31629439_cover_185-elektronnaya-kniga-boris-akunin-aziatskaya-evropeizaciya-istoriya-rossiyskogo-gosudarstva-car-petr-alekseevich.jpg",
       "price": 389,
-      "quantity": 1,
-      "rating": 2
+      "quantity": 1
     },
     {
       "id": 11,
@@ -107,8 +96,7 @@ let initialState = {
       "author": "Анджей Сапковский",
       "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/6375365-andzhey-sapkovskiy-vedmak.jpg",
       "price": 424,
-      "quantity": 1,
-      "rating": 3
+      "quantity": 1
     },
     {
       "id": 12,
@@ -116,8 +104,7 @@ let initialState = {
       "author": "Айн Рэнд",
       "image": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/4236675-ayn-rend-atlant-raspravil-plechi.jpg",
       "price": 157,
-      "quantity": 1,
-      "rating": 2
+      "quantity": 1
     },
     {
       "id": 13,
@@ -125,8 +112,7 @@ let initialState = {
       "author": "Александра Маринина",
       "image": "https://cv6.litres.ru/sbc/33285466_cover_185-elektronnaya-kniga-aleksandra-marinina-cena-voprosa-tom-1-22638660.jpg",
       "price": 664,
-      "quantity": 1,
-      "rating": 0
+      "quantity": 1
     },
     {
       "id": 14,
@@ -134,8 +120,7 @@ let initialState = {
       "author": "Гиллиан Флинн",
       "image": "https://cv2.litres.ru/sbc/11029722_cover_185-elektronnaya-kniga-gillian-flinn-ischeznuvshaya.jpg",
       "price": 476,
-      "quantity": 1,
-      "rating": 4
+      "quantity": 1
     },
     {
       "id": 15,
@@ -143,8 +128,7 @@ let initialState = {
       "author": "Дмитрий Глуховский",
       "image": "https://cv9.litres.ru/sbc/13698392_cover_185-elektronnaya-kniga-dmitriy-gluhovskiy-metro-2035.jpg",
       "price": 837,
-      "quantity": 1,
-      "rating": 4
+      "quantity": 1
     },
     {
       "id": 16,
@@ -152,8 +136,7 @@ let initialState = {
       "author": "Ю Несбё",
       "image": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/4578362-u-nesbe-snegovik-4578362.jpg",
       "price": 796,
-      "quantity": 1,
-      "rating": 5
+      "quantity": 1
     },
     {
       "id": 17,
@@ -161,8 +144,7 @@ let initialState = {
       "author": "Джонатан Хэнкок",
       "image": "https://cv1.litres.ru/sbc/14195715_cover_185-elektronnaya-kniga-dzhonatan-henkok-kak-trenirovat-pamyat-ne-dumayte-o-pamyati-luchshe-ispolzuyte-ee-na-vse-sto.jpg",
       "price": 399,
-      "quantity": 1,
-      "rating": 5
+      "quantity": 1
     }
   ],
   addToCart: [],
