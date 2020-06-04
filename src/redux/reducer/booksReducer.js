@@ -161,20 +161,20 @@ export const booksReducer = (state = initialState, action) => {
         initialize: true
       }
     case ADD_TO_CART:
-      let currentItem = state.addToCart.find(item => item.id === action.payload.id);
+      let currentItem = state.addToCart.find(item => item.id === action.item.id);
       if (!currentItem) {
-        action.payload.quantity = 1
+        action.item.quantity = 1
         return {
           ...state,
-          addToCart: state.addToCart.concat(action.payload),
-          total: state.total + action.payload.price
+          addToCart: state.addToCart.concat(action.item),
+          total: state.total + action.item.price
         }
       } else {
-        action.payload.quantity += 1;
+        action.item.quantity += 1;
         return {
           ...state,
           addToCart: [...state.addToCart],
-          total: state.total + action.payload.price
+          total: state.total + action.item.price
         }
       }
     case REMOVE_ITEM:
